@@ -3,6 +3,16 @@
     "displayName": "Liga's Dark Theme",
     "description": "The VSCode theme of the community Liga dos Programadores.",
     "version": "0.0.1",
+    "publisher": "LigaDosProgramadores",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Liga-dos-Programadores/liga-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "liga dos programadores"
+    ],
     "engines": {
         "vscode": "^1.60.0"
     },
