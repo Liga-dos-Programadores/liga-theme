@@ -1,0 +1,21 @@
+{
+    "name": "liga-dark-theme",
+    "displayName": "Liga's Dark Theme",
+    "description": "The VSCode theme of the community Liga dos Programadores.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Liga Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Liga Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
