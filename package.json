@@ -1,17 +1,19 @@
 {
-    "name": "liga-dark-theme",
-    "displayName": "Liga's Dark Theme",
-    "description": "The VSCode theme of the community Liga dos Programadores.",
+    "name": "liga-theme",
     "version": "0.0.1",
-    "publisher": "LigaDosProgramadores",
+    "displayName": "Liga dos Programadores Theme",
+    "description": "The VSCode theme of the community Liga dos Programadores.",
+    "publisher": "liga-dos-programadores",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/Liga-dos-Programadores/liga-theme"
     },
     "keywords": [
         "theme",
-        "dark theme",
-        "liga dos programadores"
+        "dark-theme",
+        "liga-dos-programadores",
+        "dark"
     ],
     "engines": {
         "vscode": "^1.60.0"
